@@ -1,4 +1,4 @@
-# AmerisourceBergen---Analytics-Challenge
+# AmerisourceBergen - Analytics-Challenge
 
 Old files used for EDA during the Temple Analytics Challenge 2018.
 
