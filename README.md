@@ -6,7 +6,7 @@ The quality of the analysis via Python was not up to my own expectations, and th
 
 I am currently redo this challenge, with updates in 2019. A new notebook has been added in `notebooks` to redo the analysis, now with the help of models.
 
-I am also working on a dashboard that uses `dash` (from `plotly`) and a Postgres SQL database. This is for the purpose of practice. 
+I am also working on a dashboard using `dash` (from `plotly`) and a Postgres SQL database. It will the same dataset and helps to explore the dataset in a more intuitive manner. The project's repo is linked [here].
 
 Link to completed infographic [2018]: 
 [bit.ly/abdc_challenge](https://bit.ly/abdc_challenge)
