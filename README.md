@@ -6,7 +6,7 @@ The quality of the analysis via Python was not up to my own expectations, and th
 
 I am currently redo this challenge, with updates in 2019. A new notebook has been added in `notebooks` to redo the analysis, now with the help of models.
 
-I am also working on a dashboard using `dash` (from **Plot.ly**) and a Postgres SQL database. It will use and help to explore the same dataset from the Analytics Challenge in a more intuitive manner.
+I am also working on a dashboard using `dash` (from **Plot.ly**) and a Postgres SQL database. It will use and help to explore the same dataset from the Analytics Challenge in a more intuitive manner. The repo for the dashboard is linked [here](https://github.com/LinhHoang8997/ABDC-Dashboard-with-Dash-and-SQL).
 
 Link to completed infographic [2018]: 
 [bit.ly/abdc_challenge](https://bit.ly/abdc_challenge)
